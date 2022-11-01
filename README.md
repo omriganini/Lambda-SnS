@@ -19,7 +19,7 @@
 
 ## The second stage:
 * In this stage I had to add Api gateway request to the first function
-*[What is Api](https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do)
+* [What is Api](https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do)
 
 * The big change in this stage is that the client will send the request to the Api and the Api will trigger the lambda function and this is the link:
 * [Api endpoint](https://jhwbrrnsa2.execute-api.us-east-1.amazonaws.com/Lambda_sum_function) this will show you the sum in the url and will send email with sum to members who were defined for this

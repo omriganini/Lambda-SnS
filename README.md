@@ -2,7 +2,7 @@
 ## This will be the solution architecture:
 ![s1+s2](https://user-images.githubusercontent.com/105926044/199258774-af67700a-7533-4cc6-b9b0-df09e82e6adb.png)
 
-##Some overview about AWS.
+## Some overview about AWS.
 *[What is AWS](https://www.techtarget.com/searchaws/definition/Amazon-Web-Services)
 *[What is cloud computing](https://aws.amazon.com/what-is-cloud-computing/)
 *[What is Lambda](https://aws.amazon.com/lambda/)

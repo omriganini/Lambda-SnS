@@ -1,8 +1,8 @@
-### Lambda-SnS using instuctions
+#### Lambda-SnS using instuctions
 ## This will be the solution architecture:
 ![s1+s2](https://user-images.githubusercontent.com/105926044/199258774-af67700a-7533-4cc6-b9b0-df09e82e6adb.png)
 
-#Some overview about AWS.
+##Some overview about AWS.
 *[What is AWS](https://www.techtarget.com/searchaws/definition/Amazon-Web-Services)
 *[What is cloud computing](https://aws.amazon.com/what-is-cloud-computing/)
 *[What is Lambda](https://aws.amazon.com/lambda/)
@@ -24,7 +24,7 @@
 * The big change in this stage is that the client will send the request to the Api and the Api will trigger the lambda function and this is the link:
 * [Api endpoint](https://jhwbrrnsa2.execute-api.us-east-1.amazonaws.com/Lambda_sum_function) this will show you the sum in the url and will send email with sum to members who were defined for this
 
-##Expected result:
+## Expected result:
 ![sum+url](https://user-images.githubusercontent.com/105926044/199266048-73b08ebf-9e2a-41fd-a25c-2ca12b395e18.jpg)
 
 ## How it should look in AWS:

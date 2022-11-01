@@ -14,7 +14,7 @@
 * When you inside the shell print this command: aws lambda invoke --function-name Lambda_sum_function --payload ewogICJrZXkxIjogInZhbHVlMSIsCiAgImtleTIiOiAidmFsdWUyIiwKICAia2V5MyI6ICJ2YWx1ZTMiCn0= response.json
 * Expected result:
 ![aws respone json_](https://user-images.githubusercontent.com/105926044/199262456-912faa07-d82b-4f74-93c7-c6c5848871e7.jpg)
-*After that the destinations members will receive a notification to their email adress
+* After that the destinations members will receive a notification to their email adress
 ![GMAIL_NOTIFICATION](https://user-images.githubusercontent.com/105926044/199263531-d59282cd-c56b-4daa-b679-03ef780f4926.jpg)
 
 ## The second stage:

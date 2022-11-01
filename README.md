@@ -3,10 +3,10 @@
 ![s1+s2](https://user-images.githubusercontent.com/105926044/199258774-af67700a-7533-4cc6-b9b0-df09e82e6adb.png)
 
 ## Some overview about AWS.
-*[What is AWS](https://www.techtarget.com/searchaws/definition/Amazon-Web-Services)
-*[What is cloud computing](https://aws.amazon.com/what-is-cloud-computing/)
-*[What is Lambda](https://aws.amazon.com/lambda/)
-*[What is Sns](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
+* [What is AWS](https://www.techtarget.com/searchaws/definition/Amazon-Web-Services)
+* [What is cloud computing](https://aws.amazon.com/what-is-cloud-computing/)
+* [What is Lambda](https://aws.amazon.com/lambda/)
+* [What is Sns](https://docs.aws.amazon.com/sns/latest/dg/welcome.html)
 
 ## How to Use the function Via AWS Cloudshell:
 * First you have to enter to the shell as marked in the photo:
